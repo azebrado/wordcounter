@@ -17,6 +17,7 @@ To get started with the Beautiful Word Counter:
 ```bash
 git clone https://github.com/yourusername/beautiful-word-counter.git
 
+```
 2. Use the html file to start word counter.
 
 
