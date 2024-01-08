@@ -1,5 +1,6 @@
 # Beautiful Word Counter By Azebrado
 Creator: [Azebrado](https://azebrado.com)
+
 Beautiful Word Counter is a simple, user-friendly web app designed to count words as the user types. It features a clean and aesthetic interface that promotes ease of use.
 
 ## Features
